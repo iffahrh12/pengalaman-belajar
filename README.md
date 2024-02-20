@@ -6,7 +6,7 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 31%)
 * Belajar tools yang terdapat pada Github.  
 * Mempraktekan menggunakan Github.  
 
-**2 February 2024**
+**2 February 2024**  
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 61%)  
 * Belajar membuat repository.  
 * Belajar membuat percabangan atau branch.  
